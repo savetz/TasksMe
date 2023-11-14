@@ -1,7 +1,7 @@
 # TasksMe
 Journal your daily tasks and share with your team
 
-Every day, Tasks Me emails members of your project, team, or company asking "What did you do today?" They can reply via email, then Tasks Me sends a summary of what everyoe else has gotten done. It can also remind you of what was accomplished one week, three months, or one year ago.
+Every day, Tasks Me emails members of your project, team, or company asking "What did you do today?" They can reply via email, then Tasks Me sends a summary of what everyone else has gotten done. It can also remind you of what was accomplished one week, three months, or one year ago.
 
 Requires: MySQL, PHP 5.6+, sendmail or some other outgoing mail service.
 
