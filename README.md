@@ -17,7 +17,7 @@ Requires: MySQL, PHP 5.6+, sendmail or some other outgoing mail service.
 **daily reminder to submit an entry:**
 ![daily_reminder](https://github.com/savetz/TasksMe/assets/15160098/03ff77be-6406-4af8-a854-916fb6375518)
 
-**daily reminder after an antry has already been submitted:**
+**daily reminder after an entry has already been submitted:**
 ![daily_reminder_with_an_entry_from_user](https://github.com/savetz/TasksMe/assets/15160098/a968b4f9-99bd-4f68-8a65-30c160719036)
 
 **optional extra reminder:**
