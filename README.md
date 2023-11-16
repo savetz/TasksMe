@@ -23,3 +23,5 @@ Requires: MySQL, PHP 5.6+, sendmail or some other outgoing mail service.
 **optional extra reminder:**
 ![extra_reminder](https://github.com/savetz/TasksMe/assets/15160098/f69570a6-f5a0-4e41-b72a-bf1b7df2ba9b)
 
+## License
+Copyright 2023 Savetz Publishing. Licensed under GPL-3.
